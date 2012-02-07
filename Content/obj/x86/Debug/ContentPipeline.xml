@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ledge2.png</Source>
+      <Name>ledge2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\ledge2.xnb</Output>
+      <Time>2010-12-07T20:25:55.953125-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ledge3.png</Source>
+      <Name>ledge3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\ledge3.xnb</Output>
+      <Time>2010-12-07T20:27:27.578125-08:00</Time>
+    </Item>
+    <Item>
+      <Source>coin.png</Source>
+      <Name>coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\coin.xnb</Output>
+      <Time>2010-12-07T20:17:44.6875-08:00</Time>
+    </Item>
+    <Item>
+      <Source>char2.png</Source>
+      <Name>char2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\char2.xnb</Output>
+      <Time>2010-12-02T15:56:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>char1.png</Source>
+      <Name>char1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\char1.xnb</Output>
+      <Time>2010-12-02T15:56:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>char1right.png</Source>
+      <Name>char1right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\char1right.xnb</Output>
+      <Time>2010-12-02T16:34:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>char2right.png</Source>
+      <Name>char2right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\char2right.xnb</Output>
+      <Time>2010-12-02T15:56:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>charjump.png</Source>
+      <Name>charjump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\charjump.xnb</Output>
+      <Time>2010-12-02T16:57:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>charjumpLeft.png</Source>
+      <Name>charjumpLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\charjumpLeft.xnb</Output>
+      <Time>2010-12-02T17:56:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>sky.jpg</Source>
+      <Name>sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\sky.xnb</Output>
+      <Time>2010-12-04T13:56:02.390625-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ScoreFont.spritefont</Source>
+      <Name>ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\ScoreFont.xnb</Output>
+      <Time>2010-10-13T09:38:00-07:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOverFont.spritefont</Source>
+      <Name>GameOverFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\GameOverFont.xnb</Output>
+      <Time>2010-10-13T09:38:00-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Bleep.wav</Source>
+      <Name>Bleep</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\Bleep.xnb</Output>
+      <Time>2010-12-02T19:13:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Click01.wav</Source>
+      <Name>Click01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\Click01.xnb</Output>
+      <Time>2010-12-02T19:14:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ScaleFull.png</Source>
+      <Name>ScaleFull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\ScaleFull.xnb</Output>
+      <Time>2010-12-05T15:34:59.671875-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2010-12-05T15:34:56.609375-08:00</Time>
+    </Item>
+    <Item>
+      <Source>smoshright.png</Source>
+      <Name>smoshright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\smoshright.xnb</Output>
+      <Time>2010-12-07T12:45:09.65625-08:00</Time>
+    </Item>
+    <Item>
+      <Source>smoshleft.png</Source>
+      <Name>smoshleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\smoshleft.xnb</Output>
+      <Time>2010-12-07T12:45:11.546875-08:00</Time>
+    </Item>
+    <Item>
+      <Source>1.jpg</Source>
+      <Name>1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\1.xnb</Output>
+      <Time>2010-12-14T16:52:30.515625-08:00</Time>
+    </Item>
+    <Item>
+      <Source>2.jpg</Source>
+      <Name>2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\2.xnb</Output>
+      <Time>2010-12-07T19:42:20.234375-08:00</Time>
+    </Item>
+    <Item>
+      <Source>3.jpg</Source>
+      <Name>3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\3.xnb</Output>
+      <Time>2010-12-14T16:53:24.234375-08:00</Time>
+    </Item>
+    <Item>
+      <Source>4.jpg</Source>
+      <Name>4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\4.xnb</Output>
+      <Time>2010-12-14T16:53:58.453125-08:00</Time>
+    </Item>
+    <Item>
+      <Source>5.jpg</Source>
+      <Name>5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\5.xnb</Output>
+      <Time>2010-12-14T16:51:59.890625-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ground.jpg</Source>
+      <Name>ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\ground.xnb</Output>
+      <Time>2010-12-07T19:47:16.8125-08:00</Time>
+    </Item>
+    <Item>
+      <Source>spike.png</Source>
+      <Name>spike</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\spike.xnb</Output>
+      <Time>2010-12-08T13:25:00.84375-08:00</Time>
+    </Item>
+    <Item>
+      <Source>moving.png</Source>
+      <Name>moving</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\moving.xnb</Output>
+      <Time>2010-12-07T20:28:55.328125-08:00</Time>
+    </Item>
+    <Item>
+      <Source>bad.png</Source>
+      <Name>bad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\bad.xnb</Output>
+      <Time>2010-12-07T20:46:18.09375-08:00</Time>
+    </Item>
+    <Item>
+      <Source>bomb.wav</Source>
+      <Name>bomb</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\bomb.xnb</Output>
+      <Time>2010-12-07T21:02:45.8125-08:00</Time>
+    </Item>
+    <Item>
+      <Source>claps.wav</Source>
+      <Name>claps</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\claps.xnb</Output>
+      <Time>2010-12-07T20:57:55.984375-08:00</Time>
+    </Item>
+    <Item>
+      <Source>house.png</Source>
+      <Name>house</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\house.xnb</Output>
+      <Time>2010-12-08T12:41:13.296875-08:00</Time>
+    </Item>
+    <Item>
+      <Source>blood.png</Source>
+      <Name>blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\blood.xnb</Output>
+      <Time>2010-12-08T13:36:23.15625-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\jcrubin\Desktop\jcrubin\cs420\FinalProject\JumpTest\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-08-12T11:45:47.109375-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
